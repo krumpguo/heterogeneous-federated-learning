@@ -17,7 +17,16 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * An Adaptive Kernel Approach to Federated Learning of Heterogeneous Causal Effects[[NeurIPS]](https://openreview.net/pdf?id=fJt2KFnRqZ)
 * AN AGNOSTIC APPROACH TO FEDERATED LEARNING WITH CLASS IMBALANCE[[ICLR]](https://openreview.net/pdf?id=Xo0lbDt975)  
 * FedDC: Federated Learning with Non-IID Data via Local Drift Decoupling and Correction[[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Gao_FedDC_Federated_Learning_With_Non-IID_Data_via_Local_Drift_Decoupling_CVPR_2022_paper.pdf)  
-* FedCor: Correlation-Based Active Client Selection Strategy for Heterogeneous Federated Learning[[CVPR]]()
+* FedCor: Correlation-Based Active Client Selection Strategy for Heterogeneous Federated Learning[[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_FedCor_Correlation-Based_Active_Client_Selection_Strategy_for_Heterogeneous_Federated_Learning_CVPR_2022_paper.pdf)
+* Learn from Others and Be Yourself in Heterogeneous Federated Learning[[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Learn_From_Others_and_Be_Yourself_in_Heterogeneous_Federated_Learning_CVPR_2022_paper.pdf)  
+* Rethinking Architecture Design for Tackling Data Heterogeneity in Federated Learning[[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Qu_Rethinking_Architecture_Design_for_Tackling_Data_Heterogeneity_in_Federated_Learning_CVPR_2022_paper.pdf)  
+* Fine-tuning Global Model via Data-Free Knowledge Distillation for Non-IID Federated Learning[[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Fine-Tuning_Global_Model_via_Data-Free_Knowledge_Distillation_for_Non-IID_Federated_CVPR_2022_paper.pdf)  
+* FedCorr: Multi-Stage Federated Learning for Label Noise Correction[[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_FedCorr_Multi-Stage_Federated_Learning_for_Label_Noise_Correction_CVPR_2022_paper.pdf)  
+* Local Learning Matters: Rethinking Data Heterogeneity in Federated Learning[[CVPR]](https://arxiv.org/pdf/2111.14213.pdf)  
+* Federated Learning with Position-Aware [[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Federated_Learning_With_Position-Aware_Neurons_CVPR_2022_paper.pdf)  
+* SphereFed: Hyperspherical Federated Learning[[ECCV]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860161.pdf)  
+* Addressing Heterogeneity in Federated Learning via Distributional Transformation[[ECCV]](https://arxiv.org/pdf/2210.15025.pdf)  
+* 
 
 ## 2021  
 * Data-Free Knowledge Distillation for Heterogeneous Federated Learning[[ICML]](http://proceedings.mlr.press/v139/zhu21b/zhu21b.pdf)  
@@ -30,6 +39,7 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * FedBE: Making Bayesian Model Ensemble Applicable to Federated Learning[[ICLR]](https://openreview.net/pdf?id=dgtpE6gKjHn)  
 * Achieving Linear Speedup with Partial Worker Participation in Non-IID Federated Learning[[ICLR]](https://openreview.net/pdf?id=jDdzh5ul-d)  
 * FedMix: Approximation of Mixup under Mean Augmented Federated Learning[[ICLR]](https://openreview.net/forum?id=Ogga20D2HO-)  
+* Federated Learning for Non-IID Data via Unified Feature Learning and Optimization Objective Alignment[[CVPR]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Federated_Learning_for_Non-IID_Data_via_Unified_Feature_Learning_and_ICCV_2021_paper.pdf)  
 * 
 
 ## 2020  
@@ -40,6 +50,7 @@ This repo is a collection of heterogeneous federated learning, including traditi
 
 ## 2017 
 * Federated Multi-Task Learning[[NeurIPS]](https://papers.nips.cc/paper/2017/file/6211080fa89981f66b1a0c9d55c61d0f-Paper.pdf)  
+* 
 # Personalized federated learning
 ## 2022  
 * pFL-Bench: A Comprehensive Benchmark for Personalized Federated Learning[[NeurIPS]](https://openreview.net/pdf?id=2ptbv_JjYKA)  
@@ -49,7 +60,13 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * Personalized Online Federated Learning with Multiple Kernels[[NeurIPS]](https://openreview.net/pdf?id=wUctlvhsNWg)  
 * Factorized-FL: Personalized Federated Learning with Parameter Factorization & Similarity Matching[[NeurIPS]](https://openreview.net/pdf?id=Ql75oqz1npy)
 * ON BRIDGING GENERIC AND PERSONALIZED FEDERATED LEARNING FOR IMAGE CLASSIFICATION[[ICLR]](https://openreview.net/pdf?id=I1hQbx10Kxn)  
+* CD2-pFed: Cyclic Distillation-guided Channel Decoupling for Model Personalization in Federated Learning[[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Shen_CD2-pFed_Cyclic_Distillation-Guided_Channel_Decoupling_for_Model_Personalization_in_Federated_CVPR_2022_paper.pdf)  
+* Layer-wised Model Aggregation for Personalized Federated Learning[[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Layer-Wised_Model_Aggregation_for_Personalized_Federated_Learning_CVPR_2022_paper.pdf)  
+* FedLTN: Federated Learning for Sparse and Personalized Lottery Ticket Networks[[ECCV]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136720069.pdf)  
+* Improving Generalization in Federated Learning by Seeking Flat Minima[[ECCV]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830636.pdf)  
+* AdaBest: Minimizing Client Drift in Federated Learning via Adaptive Bias Estimation[[ECCV]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830690.pdf)  
 * 
+
 ## 2021  
 * Personalized Federated Learning using Hypernetworks[[ICML]](http://proceedings.mlr.press/v139/shamsian21a/shamsian21a.pdf)  
 * Exploiting Shared Representations for Personalized Federated Learning[[ICML]](http://proceedings.mlr.press/v139/collins21a/collins21a.pdf)  
@@ -76,6 +93,8 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * EFFICIENT SPLIT-MIX FEDERATED LEARNING FOR ONDEMAND AND IN-SITU CUSTOMIZATION [[ICLR]](https://openreview.net/pdf?id=_QLmakITKg)  
 * ZEROFL: EFFICIENT ON-DEVICE TRAINING FOR FEDERATED LEARNING WITH LOCAL SPARSITY[[ICLR]](https://openreview.net/pdf?id=2sDQwC_hmnM)
 * HYBRID LOCAL SGD FOR FEDERATED LEARNING WITH HETEROGENEOUS COMMUNICATIONS[[ICLR]](https://openreview.net/pdf?id=H0oaWl6THa)  
+* Robust Federated Learning with Noisy and Heterogeneous Clients[[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Fang_Robust_Federated_Learning_With_Noisy_and_Heterogeneous_Clients_CVPR_2022_paper.pdf)  
+* 
 ## 2021 
 * HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients[[ICLR]](https://openreview.net/pdf?id=TNkPBBYFkXg)  
 * 
