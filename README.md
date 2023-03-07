@@ -16,8 +16,9 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * DReS-FL: Dropout-Resilient Secure Federated Learning for Non-IID Clients via Secret Data Sharing[[NeurIPS]](https://openreview.net/pdf?id=hPkGV4BPsmv)  
 * An Adaptive Kernel Approach to Federated Learning of Heterogeneous Causal Effects[[NeurIPS]](https://openreview.net/pdf?id=fJt2KFnRqZ)
 * AN AGNOSTIC APPROACH TO FEDERATED LEARNING WITH CLASS IMBALANCE[[ICLR]](https://openreview.net/pdf?id=Xo0lbDt975)  
-* 
-* 
+* FedDC: Federated Learning with Non-IID Data via Local Drift Decoupling and Correction[[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Gao_FedDC_Federated_Learning_With_Non-IID_Data_via_Local_Drift_Decoupling_CVPR_2022_paper.pdf)  
+* FedCor: Correlation-Based Active Client Selection Strategy for Heterogeneous Federated Learning[[CVPR]]()
+
 ## 2021  
 * Data-Free Knowledge Distillation for Heterogeneous Federated Learning[[ICML]](http://proceedings.mlr.press/v139/zhu21b/zhu21b.pdf)  
 * No Fear of Heterogeneity: Classifier Calibration for Federated Learning with Non-IID Data[[NeurIPS]](https://papers.nips.cc/paper/2021/file/2f2b265625d76a6704b08093c652fd79-Paper.pdf)  
