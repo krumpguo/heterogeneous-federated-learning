@@ -15,6 +15,7 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * Preservation of the Global Knowledge by Not-True Distillation in Federated Learning[[NeurIPS]](https://openreview.net/pdf?id=qw3MZb1Juo)
 * DReS-FL: Dropout-Resilient Secure Federated Learning for Non-IID Clients via Secret Data Sharing[[NeurIPS]](https://openreview.net/pdf?id=hPkGV4BPsmv)  
 * An Adaptive Kernel Approach to Federated Learning of Heterogeneous Causal Effects[[NeurIPS]](https://openreview.net/pdf?id=fJt2KFnRqZ)
+* AN AGNOSTIC APPROACH TO FEDERATED LEARNING WITH CLASS IMBALANCE[[ICLR]](https://openreview.net/pdf?id=Xo0lbDt975)  
 * 
 * 
 ## 2021  
@@ -23,7 +24,13 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * Breaking the centralized barrier for cross-device federated learning[[NeurIPS]](https://papers.nips.cc/paper/2021/file/f0e6be4ce76ccfa73c5a540d992d0756-Paper.pdf)
 * Linear Convergence in Federated Learning: Tackling Client Heterogeneity and Sparse Gradients[[NeurIPS]](https://papers.nips.cc/paper/2021/file/7a6bda9ad6ffdac035c752743b7e9d0e-Paper.pdf)  
 * Robust Federated Learning: The Case of Affine Distribution Shifts[[NeurIPS]](https://papers.nips.cc/paper/2020/file/f5e536083a438cec5b64a4954abc17f1-Paper.pdf)  
+* FedBN: Federated Learning on Non-IID Features via Local Batch Normalization[[ICLR]](https://openreview.net/pdf?id=6YEQUn0QICG)  
+* Personalized Federated Learning with First Order Model Optimization[[ICLR]](https://openreview.net/pdf?id=ehJqJQk9cw)  
+* FedBE: Making Bayesian Model Ensemble Applicable to Federated Learning[[ICLR]](https://openreview.net/pdf?id=dgtpE6gKjHn)  
+* Achieving Linear Speedup with Partial Worker Participation in Non-IID Federated Learning[[ICLR]](https://openreview.net/pdf?id=jDdzh5ul-d)  
+* FedMix: Approximation of Mixup under Mean Augmented Federated Learning[[ICLR]](https://openreview.net/forum?id=Ogga20D2HO-)  
 * 
+
 ## 2020  
 * SCAFFOLD: Stochastic Controlled Averaging for Federated Learning[[ICML]](http://proceedings.mlr.press/v119/karimireddy20a/karimireddy20a.pdf)  
 * Federated Learning with Only Positive Labels[[ICML]](http://proceedings.mlr.press/v119/yu20f/yu20f.pdf)  
@@ -40,6 +47,7 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * FedPop: A Bayesian Approach for Personalised Federated Learning[[NeurIPS]](https://arxiv.org/pdf/2206.03611.pdf)  
 * Personalized Online Federated Learning with Multiple Kernels[[NeurIPS]](https://openreview.net/pdf?id=wUctlvhsNWg)  
 * Factorized-FL: Personalized Federated Learning with Parameter Factorization & Similarity Matching[[NeurIPS]](https://openreview.net/pdf?id=Ql75oqz1npy)
+* ON BRIDGING GENERIC AND PERSONALIZED FEDERATED LEARNING FOR IMAGE CLASSIFICATION[[ICLR]](https://openreview.net/pdf?id=I1hQbx10Kxn)  
 * 
 ## 2021  
 * Personalized Federated Learning using Hypernetworks[[ICML]](http://proceedings.mlr.press/v139/shamsian21a/shamsian21a.pdf)  
@@ -63,7 +71,14 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * Resource-Adaptive Federated Learning with All-In-One Neural Composition[[NeurIPS]](https://openreview.net/pdf?id=wfel7CjOYk)  
 * FedRolex: Model-Heterogeneous Federated Learning with Rolling Sub-Model Extraction[[NeurIPS]](https://openreview.net/pdf?id=OtxyysUdBE)  
 * FjORD: Fair and Accurate Federated Learning under heterogeneous targets with Ordered Dropout[[NeurIPS]](https://papers.nips.cc/paper/2021/file/6aed000af86a084f9cb0264161e29dd3-Paper.pdf)  
-* Ensemble Distillation for Robust Model Fusion in Federated Learning[[NeurIPS]](https://papers.nips.cc/paper/2020/file/18df51b97ccd68128e994804f3eccc87-Paper.pdf)
+* Ensemble Distillation for Robust Model Fusion in Federated Learning[[NeurIPS]](https://papers.nips.cc/paper/2020/file/18df51b97ccd68128e994804f3eccc87-Paper.pdf)  
+* EFFICIENT SPLIT-MIX FEDERATED LEARNING FOR ONDEMAND AND IN-SITU CUSTOMIZATION [[ICLR]](https://openreview.net/pdf?id=_QLmakITKg)  
+* ZEROFL: EFFICIENT ON-DEVICE TRAINING FOR FEDERATED LEARNING WITH LOCAL SPARSITY[[ICLR]](https://openreview.net/pdf?id=2sDQwC_hmnM)
+* HYBRID LOCAL SGD FOR FEDERATED LEARNING WITH HETEROGENEOUS COMMUNICATIONS[[ICLR]](https://openreview.net/pdf?id=H0oaWl6THa)  
+## 2021 
+* HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients[[ICLR]](https://openreview.net/pdf?id=TNkPBBYFkXg)  
+* 
+
 
 # New client
 ## 2022
