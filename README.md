@@ -1,6 +1,8 @@
 # Data-heterogeneous-federated-learning
 This repo is a collection of heterogeneous federated learning, including traditional federated learning and personalized federated learning.
 # Traditional federated learning 
+## 2023  
+* TEST-TIME ROBUST PERSONALIZATION FOR FEDERATED LEARNING[[ICLR]](https://arxiv.org/pdf/2205.10920v3.pdf)
 ## 2022  
 * FLamby: Datasets and Benchmarks for Cross-Silo Federated Learning in Realistic Healthcare Settings[[NeurIPS]](https://openreview.net/pdf?id=GgM5DiAb6A2)
 * Virtual Homogeneity Learning: Defending against Data Heterogeneity in Federated Learning [[ICML]](https://proceedings.mlr.press/v162/tang22d/tang22d.pdf)  
@@ -40,7 +42,8 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * Achieving Linear Speedup with Partial Worker Participation in Non-IID Federated Learning[[ICLR]](https://openreview.net/pdf?id=jDdzh5ul-d)  
 * FedMix: Approximation of Mixup under Mean Augmented Federated Learning[[ICLR]](https://openreview.net/forum?id=Ogga20D2HO-)  
 * Federated Learning for Non-IID Data via Unified Feature Learning and Optimization Objective Alignment[[CVPR]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Federated_Learning_for_Non-IID_Data_via_Unified_Feature_Learning_and_ICCV_2021_paper.pdf)  
-* 
+* Model-Contrastive Federated Learning[[CVPR]](https://arxiv.org/pdf/2103.16257v1.pdf)  
+
 
 ## 2020  
 * SCAFFOLD: Stochastic Controlled Averaging for Federated Learning[[ICML]](http://proceedings.mlr.press/v119/karimireddy20a/karimireddy20a.pdf)  
@@ -102,7 +105,10 @@ This repo is a collection of heterogeneous federated learning, including traditi
 
 # New client
 ## 2022
-* FedSR: A Simple and Effective Domain Generalization Method for Federated Learning[[NeurIPS]](https://openreview.net/pdf?id=mrt90D00aQX)
+* FedSR: A Simple and Effective Domain Generalization Method for Federated Learning[[NeurIPS]](https://openreview.net/pdf?id=mrt90D00aQX)  
+* FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space[[CVPR]](https://arxiv.org/pdf/2103.06030v1.pdf)  
+
+
 # Arbitrary Client Participation 
 ## 2022
 * A Unified Analysis of Federated Learning with Arbitrary Client Participation[[NeurIPS]](https://openreview.net/pdf?id=qSs7C7c4G8D)  
