@@ -4,7 +4,19 @@ This repo is a collection of heterogeneous federated learning, including traditi
 ## 2023  
 * Test-Time Robust Personalization for Federated Learning[[ICLR]](https://arxiv.org/pdf/2205.10920v3.pdf)  
 * EPISODE: Episodic Gradient Clipping with Periodic Resampled Corrections for Federated Learning with Heterogeneous Data[[ICLR]](https://arxiv.org/pdf/2302.07155v1.pdf)  
-* 
+* Towards Understanding and Mitigating Dimensional Collapse in Heterogeneous Federated Learning[[ICLR]](https://arxiv.org/pdf/2210.00226.pdf)  
+* PerFedMask: Personalized Federated Learning with Optimized Masking Vectors[[ICLR]](https://openreview.net/pdf?id=hxEIgUXLFF)  
+* Where to Begin? On the Impact of Pre-Training and Initialization in Federated Learning[[ICLR]](https://openreview.net/pdf?id=Mpa3tRJFBb)  
+* Generalization Bounds for Federated Learning: Fast Rates, Unparticipating Clients and Unbounded Losses[[ICLR]](https://openreview.net/pdf?id=-EHqoysUYLx) 
+* Turning the Curse of Heterogeneity in Federated Learning into a Blessing for Out-of-Distribution Detection[[ICLR]](https://openreview.net/pdf?id=mMNimwRb7Gr)  
+* Towards Addressing Label Skews in One-Shot Federated Learning[[ICLR]](https://openreview.net/pdf?id=rzrqh85f4Sc)  
+* Personalized Federated Learning with Feature Alignment and Classifier Collaboration[[ICLR]](https://openreview.net/pdf?id=SXZr8aDKia)  
+* FedFA: Federated Feature Augmentation[[ICLR]](https://arxiv.org/pdf/2301.12995.pdf)  
+* Data-Free One-Shot Federated Learning Under Very High Statistical Heterogeneity[[ICLR]](https://openreview.net/pdf?id=_hb4vM3jspB)  
+* Multimodal Federated Learning via Contrastive Representation Ensemble[[ICLR]](https://arxiv.org/pdf/2302.08888.pdf)
+* The Best of Both Worlds: Accurate Global and Personalized Models through Federated Learning with Data-Free Hyper-Knowledge Distillation[[ICLR]](https://arxiv.org/pdf/2301.08968.pdf)  
+* EPISODE: Episodic Gradient Clipping with Periodic Resampled Corrections for Federated Learning with Heterogeneous Data[[ICLR]](https://arxiv.org/pdf/2302.07155.pdf) 
+* Test-Time Robust Personalization for Federated Learning[[ICLR]](https://arxiv.org/pdf/2205.10920.pdf)
 ## 2022  
 * FLamby: Datasets and Benchmarks for Cross-Silo Federated Learning in Realistic Healthcare Settings[[NeurIPS]](https://openreview.net/pdf?id=GgM5DiAb6A2)
 * Virtual Homogeneity Learning: Defending against Data Heterogeneity in Federated Learning [[ICML]](https://proceedings.mlr.press/v162/tang22d/tang22d.pdf)  
