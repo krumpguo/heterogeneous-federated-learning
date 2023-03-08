@@ -2,7 +2,9 @@
 This repo is a collection of heterogeneous federated learning, including traditional federated learning and personalized federated learning.
 # Traditional federated learning 
 ## 2023  
-* TEST-TIME ROBUST PERSONALIZATION FOR FEDERATED LEARNING[[ICLR]](https://arxiv.org/pdf/2205.10920v3.pdf)
+* Test-Time Robust Personalization for Federated Learning[[ICLR]](https://arxiv.org/pdf/2205.10920v3.pdf)  
+* EPISODE: Episodic Gradient Clipping with Periodic Resampled Corrections for Federated Learning with Heterogeneous Data[[ICLR]](https://arxiv.org/pdf/2302.07155v1.pdf)  
+* 
 ## 2022  
 * FLamby: Datasets and Benchmarks for Cross-Silo Federated Learning in Realistic Healthcare Settings[[NeurIPS]](https://openreview.net/pdf?id=GgM5DiAb6A2)
 * Virtual Homogeneity Learning: Defending against Data Heterogeneity in Federated Learning [[ICML]](https://proceedings.mlr.press/v162/tang22d/tang22d.pdf)  
@@ -28,7 +30,9 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * Federated Learning with Position-Aware [[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Federated_Learning_With_Position-Aware_Neurons_CVPR_2022_paper.pdf)  
 * SphereFed: Hyperspherical Federated Learning[[ECCV]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860161.pdf)  
 * Addressing Heterogeneity in Federated Learning via Distributional Transformation[[ECCV]](https://arxiv.org/pdf/2210.15025.pdf)  
+* FedX: Unsupervised Federated Learning with Cross Knowledge Distillation[[ECCV]](https://link.springer.com/content/pdf/10.1007/978-3-031-20056-4_40.pdf?pdf=core)  
 * 
+
 
 ## 2021  
 * Data-Free Knowledge Distillation for Heterogeneous Federated Learning[[ICML]](http://proceedings.mlr.press/v139/zhu21b/zhu21b.pdf)  
@@ -43,7 +47,8 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * FedMix: Approximation of Mixup under Mean Augmented Federated Learning[[ICLR]](https://openreview.net/forum?id=Ogga20D2HO-)  
 * Federated Learning for Non-IID Data via Unified Feature Learning and Optimization Objective Alignment[[CVPR]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Federated_Learning_for_Non-IID_Data_via_Unified_Feature_Learning_and_ICCV_2021_paper.pdf)  
 * Model-Contrastive Federated Learning[[CVPR]](https://arxiv.org/pdf/2103.16257v1.pdf)  
-
+* Ensemble Attention Distillation for Privacy-Preserving Federated Learning[[ICCV]](https://openaccess.thecvf.com/content/ICCV2021/papers/Gong_Ensemble_Attention_Distillation_for_Privacy-Preserving_Federated_Learning_ICCV_2021_paper.pdf)  
+* Federated Learning for Non-IID Data via Unified Feature Learning and Optimization Objective Alignment[[ICCV]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Federated_Learning_for_Non-IID_Data_via_Unified_Feature_Learning_and_ICCV_2021_paper.pdf)  
 
 ## 2020  
 * SCAFFOLD: Stochastic Controlled Averaging for Federated Learning[[ICML]](http://proceedings.mlr.press/v119/karimireddy20a/karimireddy20a.pdf)  
@@ -53,12 +58,11 @@ This repo is a collection of heterogeneous federated learning, including traditi
 
 ## 2017 
 * Federated Multi-Task Learning[[NeurIPS]](https://papers.nips.cc/paper/2017/file/6211080fa89981f66b1a0c9d55c61d0f-Paper.pdf)  
-* 
 # Personalized federated learning
 ## 2022  
 * pFL-Bench: A Comprehensive Benchmark for Personalized Federated Learning[[NeurIPS]](https://openreview.net/pdf?id=2ptbv_JjYKA)  
 * Personalized Federated Learning via Variational Bayesian Inference [[ICML]](https://proceedings.mlr.press/v162/zhang22o/zhang22o.pdf)  
-* Personalized Federated Learning through Local Memorization[[ICML]](https://proceedings.mlr.press/v162/marfoq22a/marfoq22a.pdf)  
+* Personalized Federated Learning through Local Memorization[[ICML]](https://arxiv.org/pdf/2111.09360v3.pdf)  
 * FedPop: A Bayesian Approach for Personalised Federated Learning[[NeurIPS]](https://arxiv.org/pdf/2206.03611.pdf)  
 * Personalized Online Federated Learning with Multiple Kernels[[NeurIPS]](https://openreview.net/pdf?id=wUctlvhsNWg)  
 * Factorized-FL: Personalized Federated Learning with Parameter Factorization & Similarity Matching[[NeurIPS]](https://openreview.net/pdf?id=Ql75oqz1npy)
@@ -68,7 +72,6 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * FedLTN: Federated Learning for Sparse and Personalized Lottery Ticket Networks[[ECCV]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136720069.pdf)  
 * Improving Generalization in Federated Learning by Seeking Flat Minima[[ECCV]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830636.pdf)  
 * AdaBest: Minimizing Client Drift in Federated Learning via Adaptive Bias Estimation[[ECCV]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830690.pdf)  
-* 
 
 ## 2021  
 * Personalized Federated Learning using Hypernetworks[[ICML]](http://proceedings.mlr.press/v139/shamsian21a/shamsian21a.pdf)  
@@ -78,13 +81,14 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * QuPeD: Quantized Personalization via Distillation with Applications to Federated Learning[[NeurIPS]](https://papers.nips.cc/paper/2021/file/1dba3025b159cd9354da65e2d0436a31-Paper.pdf)
 * Federated Multi-Task Learning under a Mixture of Distributions[[NeurIPS]](https://papers.nips.cc/paper/2021/file/82599a4ec94aca066873c99b4c741ed8-Paper.pdf)
 * Parameterized Knowledge Transfer for Personalized Federated Learning[[NeurIPS]](https://papers.nips.cc/paper/2021/file/5383c7318a3158b9bc261d0b6996f7c2-Paper.pdf)  
-* 
+* Exploiting Shared Representations for Personalized Federated Learning[[ICML]](https://arxiv.org/pdf/2102.07078v2.pdf)  
 
 ## 2020
 * Architecture Agnostic Federated Learning for Neural Networks[[ICML]](https://proceedings.mlr.press/v162/makhija22a/makhija22a.pdf)  
+* Adaptive Personalized Federated Learning[[ICML]](https://arxiv.org/pdf/2003.13461v3.pdf)  
 * Personalized Federated Learning with Moreau Envelopes[[NeurIPS]](https://papers.nips.cc/paper/2020/file/f4f1f13c8289ac1b1ee0ff176b56fc60-Paper.pdf)  
 * Personalized Federated Learning with Theoretical Guarantees: A Model-Agnostic Meta-Learning Approach[[NeurIPS]](https://papers.nips.cc/paper/2020/file/24389bfe4fe2eba8bf9aa9203a44cdad-Paper.pdf)  
-* 
+* Adaptive Personalized Federated Learning[[ICML]](https://arxiv.org/pdf/2003.13461v3.pdf)  
 
 # Other-heterogeneity-federated-learning  
 ## 2022  
@@ -97,10 +101,8 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * ZEROFL: EFFICIENT ON-DEVICE TRAINING FOR FEDERATED LEARNING WITH LOCAL SPARSITY[[ICLR]](https://openreview.net/pdf?id=2sDQwC_hmnM)
 * HYBRID LOCAL SGD FOR FEDERATED LEARNING WITH HETEROGENEOUS COMMUNICATIONS[[ICLR]](https://openreview.net/pdf?id=H0oaWl6THa)  
 * Robust Federated Learning with Noisy and Heterogeneous Clients[[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Fang_Robust_Federated_Learning_With_Noisy_and_Heterogeneous_Clients_CVPR_2022_paper.pdf)  
-* 
 ## 2021 
 * HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients[[ICLR]](https://openreview.net/pdf?id=TNkPBBYFkXg)  
-* 
 
 
 # New client
@@ -114,6 +116,5 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * A Unified Analysis of Federated Learning with Arbitrary Client Participation[[NeurIPS]](https://openreview.net/pdf?id=qSs7C7c4G8D)  
 * On Large-Cohort Training for Federated Learning[[NeurIPS]](https://papers.nips.cc/paper/2021/file/ab9ebd57177b5106ad7879f0896685d4-Paper.pdf)  
 * Fast Federated Learning in the Presence of Arbitrary Device Unavailability[[NeurIPS]](https://papers.nips.cc/paper/2021/file/64be20f6dd1dd46adf110cf871e3ed35-Paper.pdf)
-* 
 
    			
