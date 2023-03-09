@@ -16,7 +16,7 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * Multimodal Federated Learning via Contrastive Representation Ensemble[[ICLR]](https://arxiv.org/pdf/2302.08888.pdf)
 * The Best of Both Worlds: Accurate Global and Personalized Models through Federated Learning with Data-Free Hyper-Knowledge Distillation[[ICLR]](https://arxiv.org/pdf/2301.08968.pdf)  
 * EPISODE: Episodic Gradient Clipping with Periodic Resampled Corrections for Federated Learning with Heterogeneous Data[[ICLR]](https://arxiv.org/pdf/2302.07155.pdf) 
-* Test-Time Robust Personalization for Federated Learning[[ICLR]](https://arxiv.org/pdf/2205.10920.pdf)
+
 ## 2022  
 * FLamby: Datasets and Benchmarks for Cross-Silo Federated Learning in Realistic Healthcare Settings[[NeurIPS]](https://openreview.net/pdf?id=GgM5DiAb6A2)
 * Virtual Homogeneity Learning: Defending against Data Heterogeneity in Federated Learning [[ICML]](https://proceedings.mlr.press/v162/tang22d/tang22d.pdf)  
