@@ -43,6 +43,13 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * SphereFed: Hyperspherical Federated Learning[[ECCV]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860161.pdf)  
 * Addressing Heterogeneity in Federated Learning via Distributional Transformation[[ECCV]](https://arxiv.org/pdf/2210.15025.pdf)  
 * FedX: Unsupervised Federated Learning with Cross Knowledge Distillation[[ECCV]](https://link.springer.com/content/pdf/10.1007/978-3-031-20056-4_40.pdf?pdf=core)  
+* HarmoFL: Harmonizing Local and Global Drifts in Federated Learning on Heterogeneous Medical Images[[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/19993)  
+* Is Your Data Relevant?: Dynamic Selection of Relevant Data for Federated Learning[[AAAI]](Is Your Data Relevant?: Dynamic Selection of Relevant Data for Federated Learning)  
+* edSoft: Soft Clustered Federated Learning with Proximal Local Updating[[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/20785)  
+* Seizing Critical Learning Periods in Federated Learning[[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/20859)  
+* Class-Wise Adaptive Self Distillation for Federated Learning on Non-IID Data (Student Abstract)[[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/21620)  
+* Implicit Gradient Alignment in Distributed and Federated Learning[[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/20597)  
+* Contribution-Aware Federated Learning for Smart Healthcare[[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/20597)  
 * 
 
 
