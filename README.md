@@ -50,7 +50,11 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * Class-Wise Adaptive Self Distillation for Federated Learning on Non-IID Data (Student Abstract)[[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/21620)  
 * Implicit Gradient Alignment in Distributed and Federated Learning[[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/20597)  
 * Contribution-Aware Federated Learning for Smart Healthcare[[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/20597)  
-* 
+* Heterogeneous Ensemble Knowledge Transfer for Training Large Models in Federated Learning[[IJCAI]](https://www.ijcai.org/proceedings/2022/0399.pdf)  
+* Private Semi-Supervised Federated Learning[[IJCAI]](https://www.ijcai.org/proceedings/2022/0279.pdf)  
+* Adapt to Adaptation: Learning Personalization for Cross-Silo Federated[[IJCAI]](https://www.ijcai.org/proceedings/2022/0301.pdf)  
+* Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features[[IJCAI]](https://www.ijcai.org/proceedings/2022/0308.pdf)  * 
+
 
 
 ## 2021  
