@@ -60,7 +60,7 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * Linear Convergence in Federated Learning: Tackling Client Heterogeneity and Sparse Gradients[[NeurIPS]](https://papers.nips.cc/paper/2021/file/7a6bda9ad6ffdac035c752743b7e9d0e-Paper.pdf)  
 * Robust Federated Learning: The Case of Affine Distribution Shifts[[NeurIPS]](https://papers.nips.cc/paper/2020/file/f5e536083a438cec5b64a4954abc17f1-Paper.pdf)  
 * FedBN: Federated Learning on Non-IID Features via Local Batch Normalization[[ICLR]](https://openreview.net/pdf?id=6YEQUn0QICG)  
-* Personalized Federated Learning with First Order Model Optimization[[ICLR]](https://openreview.net/pdf?id=ehJqJQk9cw)  
+
 * FedBE: Making Bayesian Model Ensemble Applicable to Federated Learning[[ICLR]](https://openreview.net/pdf?id=dgtpE6gKjHn)  
 * Achieving Linear Speedup with Partial Worker Participation in Non-IID Federated Learning[[ICLR]](https://openreview.net/pdf?id=jDdzh5ul-d)  
 * FedMix: Approximation of Mixup under Mean Augmented Federated Learning[[ICLR]](https://openreview.net/forum?id=Ogga20D2HO-)  
@@ -74,7 +74,7 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * Federated Learning with Only Positive Labels[[ICML]](http://proceedings.mlr.press/v119/yu20f/yu20f.pdf)  
 * An Efficient Framework for Clustered Federated Learning[[NeurIPS]](https://papers.nips.cc/paper/2020/file/e32cc80bf07915058ce90722ee17bb71-Paper.pdf)
 * Group Knowledge Transfer: Federated Learning of Large CNNs at the Edge[[NeurIPS]](https://papers.nips.cc/paper/2020/file/a1d4c20b182ad7137ab3606f0e3fc8a4-Paper.pdf) 
-
+* Federated Learning with Matched Averaging[[ICLR]](https://arxiv.org/pdf/2002.06440.pdf)
 ## 2017 
 * Federated Multi-Task Learning[[NeurIPS]](https://papers.nips.cc/paper/2017/file/6211080fa89981f66b1a0c9d55c61d0f-Paper.pdf)  
 # Personalized federated learning
@@ -101,6 +101,7 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * Federated Multi-Task Learning under a Mixture of Distributions[[NeurIPS]](https://papers.nips.cc/paper/2021/file/82599a4ec94aca066873c99b4c741ed8-Paper.pdf)
 * Parameterized Knowledge Transfer for Personalized Federated Learning[[NeurIPS]](https://papers.nips.cc/paper/2021/file/5383c7318a3158b9bc261d0b6996f7c2-Paper.pdf)  
 * Exploiting Shared Representations for Personalized Federated Learning[[ICML]](https://arxiv.org/pdf/2102.07078v2.pdf)  
+* Personalized Federated Learning with First Order Model Optimization[[ICLR]](https://openreview.net/pdf?id=ehJqJQk9cw)  
 
 ## 2020
 * Architecture Agnostic Federated Learning for Neural Networks[[ICML]](https://proceedings.mlr.press/v162/makhija22a/makhija22a.pdf)  
