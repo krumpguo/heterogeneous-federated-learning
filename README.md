@@ -81,6 +81,8 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * Federated Learning with Matched Averaging[[ICLR]](https://arxiv.org/pdf/2002.06440.pdf)
 ## 2017 
 * Federated Multi-Task Learning[[NeurIPS]](https://papers.nips.cc/paper/2017/file/6211080fa89981f66b1a0c9d55c61d0f-Paper.pdf)  
+* Communication-Efficient Learning of Deep Networks from Decentralized Data[[AISTATS]](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)[[FedAvg]]
+
 # Personalized federated learning
 ## 2022  
 * pFL-Bench: A Comprehensive Benchmark for Personalized Federated Learning[[NeurIPS]](https://openreview.net/pdf?id=2ptbv_JjYKA)  
