@@ -24,6 +24,7 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * Multi-Level Branched Regularization for Federated Learning [[ICML]](https://proceedings.mlr.press/v162/kim22a/kim22a.pdf)  
 * Neural Tangent Kernel Empowered Federated Learning [[ICML]](https://proceedings.mlr.press/v162/yue22a/yue22a.pdf)  
 * Disentangled Federated Learning for Tackling Attributes Skew via Invariant Aggregation and Diversity Transferring [[ICML]](https://proceedings.mlr.press/v162/luo22b/luo22b.pdf)  
+* Federated Learning with Partial Model Personalization[[ICML]](https://proceedings.mlr.press/v162/pillutla22a/pillutla22a.pdf)
 * CalFAT: Calibrated Federated Adversarial Training with Label Skewness[[NeurIPS]](https://openreview.net/pdf?id=8N1NDRGQSQ)  
 * Subspace Recovery from Heterogeneous Data with Non-isotropic Noise[[NeurIPS]](https://arxiv.org/pdf/2210.13497.pdf)  
 * Global Convergence of Federated Learning for Mixed Regression[[NeurIPS]](https://openreview.net/attachment?id=DdxNka9tMRd&name=supplementary_material)  
