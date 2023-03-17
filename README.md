@@ -2,10 +2,14 @@
 This repo is a collection of heterogeneous federated learning, including traditional federated learning and personalized federated learning.
 # Traditional federated learning 
 ## 2023  
-* Test-Time Robust Personalization for Federated Learning[[ICLR]](https://arxiv.org/pdf/2205.10920v3.pdf)  
-* EPISODE: Episodic Gradient Clipping with Periodic Resampled Corrections for Federated Learning with Heterogeneous Data[[ICLR]](https://arxiv.org/pdf/2302.07155v1.pdf)  
+* DEPTHFL: DEPTHWISE FEDERATED LEARNING FOR HETEROGENEOUS CLIENTS[[ICLR]](https://openreview.net/pdf?id=pf8RIZTMU58)  
+* FEDSPEED: LARGER LOCAL INTERVAL, LESS COMMUNICATION ROUND, AND HIGHER GENERALIZATION ACCURACY[[ICLR]](https://openreview.net/pdf?id=bZjxxYURKT) 
+* GENERALIZATION BOUNDS FOR FEDERATED LEARNING: FAST RATES, UNPARTICIPATING CLIENTS AND UNBOUNDED LOSSES[[ICLR]](https://openreview.net/pdf?id=-EHqoysUYLx)  
+* DOES LEARNING FROM DECENTRALIZED NON-IID UNLABELED DATA BENEFIT FROM SELF SUPERVISION?[[ICLR]](https://openreview.net/pdf?id=2L9gzS80tA4)  
+* EFFICIENT FEDERATED DOMAIN TRANSLATION[[ICLR]](https://openreview.net/pdf?id=uhLAcrAZ9cJ)  
+* Combating Exacerbated Heterogeneity for Robust Models in Federated Learning[[ICLR]](https://openreview.net/pdf?id=eKllxpLOOm)
+* EPISODE: Episodic Gradient Clipping with Periodic Resampled Corrections for Federated Learning with Heterogeneous Data[[ICLR]](https://arxiv.org/pdf/2302.07155v1.pdf) 
 * Towards Understanding and Mitigating Dimensional Collapse in Heterogeneous Federated Learning[[ICLR]](https://arxiv.org/pdf/2210.00226.pdf)  
-* PerFedMask: Personalized Federated Learning with Optimized Masking Vectors[[ICLR]](https://openreview.net/pdf?id=hxEIgUXLFF)  
 * Where to Begin? On the Impact of Pre-Training and Initialization in Federated Learning[[ICLR]](https://openreview.net/pdf?id=Mpa3tRJFBb)  
 * Generalization Bounds for Federated Learning: Fast Rates, Unparticipating Clients and Unbounded Losses[[ICLR]](https://openreview.net/pdf?id=-EHqoysUYLx) 
 * Turning the Curse of Heterogeneity in Federated Learning into a Blessing for Out-of-Distribution Detection[[ICLR]](https://openreview.net/pdf?id=mMNimwRb7Gr)  
@@ -16,6 +20,7 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * Multimodal Federated Learning via Contrastive Representation Ensemble[[ICLR]](https://arxiv.org/pdf/2302.08888.pdf)
 * The Best of Both Worlds: Accurate Global and Personalized Models through Federated Learning with Data-Free Hyper-Knowledge Distillation[[ICLR]](https://arxiv.org/pdf/2301.08968.pdf)  
 * On the Importance and Applicability of Pre-Training for Federated Learning [[ICLR]](https://openreview.net/pdf?id=fWWFv--P0xP)
+
 
 ## 2022  
 * FLamby: Datasets and Benchmarks for Cross-Silo Federated Learning in Realistic Healthcare Settings[[NeurIPS]](https://openreview.net/pdf?id=GgM5DiAb6A2)
@@ -54,7 +59,7 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * Heterogeneous Ensemble Knowledge Transfer for Training Large Models in Federated Learning[[IJCAI]](https://www.ijcai.org/proceedings/2022/0399.pdf)  
 * Private Semi-Supervised Federated Learning[[IJCAI]](https://www.ijcai.org/proceedings/2022/0279.pdf)  
 * Adapt to Adaptation: Learning Personalization for Cross-Silo Federated[[IJCAI]](https://www.ijcai.org/proceedings/2022/0301.pdf)  
-* Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features[[IJCAI]](https://www.ijcai.org/proceedings/2022/0308.pdf)  * 
+* Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features[[IJCAI]](https://www.ijcai.org/proceedings/2022/0308.pdf)  
 
 
 
@@ -85,6 +90,12 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * Communication-Efficient Learning of Deep Networks from Decentralized Data[[AISTATS]](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)[[FedAvg]]
 
 # Personalized federated learning
+## 2023  
+* Test-Time Robust Personalization for Federated Learning[[ICLR]](https://arxiv.org/pdf/2205.10920v3.pdf) 
+* PerFedMask: Personalized Federated Learning with Optimized Masking Vectors[[ICLR]](https://openreview.net/pdf?id=hxEIgUXLFF) 
+* FEDDAR: FEDERATED DOMAIN-AWARE REPRESENTATION LEARNING[[ICLR]](https://openreview.net/pdf?id=6P9Y25Pljl6)  
+
+
 ## 2022  
 * pFL-Bench: A Comprehensive Benchmark for Personalized Federated Learning[[NeurIPS]](https://openreview.net/pdf?id=2ptbv_JjYKA)  
 * Personalized Federated Learning via Variational Bayesian Inference [[ICML]](https://proceedings.mlr.press/v162/zhang22o/zhang22o.pdf)  
