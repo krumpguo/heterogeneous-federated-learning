@@ -115,7 +115,6 @@ This repo is a collection of heterogeneous federated learning, including traditi
 
 ## 2021  
 * Personalized Federated Learning using Hypernetworks[[ICML]](http://proceedings.mlr.press/v139/shamsian21a/shamsian21a.pdf)  
-* Exploiting Shared Representations for Personalized Federated Learning[[ICML]](http://proceedings.mlr.press/v139/collins21a/collins21a.pdf)  
 * PartialFed: Cross-Domain Personalized Federated Learning via Partial Initialization[[NeurIPS]](https://papers.nips.cc/paper/2021/file/c429429bf1f2af051f2021dc92a8ebea-Paper.pdf)  
 * Personalized Federated Learning with Gaussian Processes[[NeurIPS]](https://papers.nips.cc/paper/2021/file/46d0671dd4117ea366031f87f3aa0093-Paper.pdf)
 * QuPeD: Quantized Personalization via Distillation with Applications to Federated Learning[[NeurIPS]](https://papers.nips.cc/paper/2021/file/1dba3025b159cd9354da65e2d0436a31-Paper.pdf)
