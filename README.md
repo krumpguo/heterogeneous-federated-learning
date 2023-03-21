@@ -2,11 +2,10 @@
 This repo is a collection of heterogeneous federated learning, including traditional federated learning and personalized federated learning.
 # Traditional federated learning 
 ## 2023  
-* DEPTHFL: DEPTHWISE FEDERATED LEARNING FOR HETEROGENEOUS CLIENTS[[ICLR]](https://openreview.net/pdf?id=pf8RIZTMU58)  
-* FEDSPEED: LARGER LOCAL INTERVAL, LESS COMMUNICATION ROUND, AND HIGHER GENERALIZATION ACCURACY[[ICLR]](https://openreview.net/pdf?id=bZjxxYURKT) 
-* GENERALIZATION BOUNDS FOR FEDERATED LEARNING: FAST RATES, UNPARTICIPATING CLIENTS AND UNBOUNDED LOSSES[[ICLR]](https://openreview.net/pdf?id=-EHqoysUYLx)  
+* FedSpeed: Larger Local Interval, Less Communication Round, and Higher Generalization Accuracy[[ICLR]](https://openreview.net/pdf?id=bZjxxYURKT) 
+* Generalization Bounds for Federated Learning: Fast Rates, Unparticipating Clients and Unbounded Losses[[ICLR]](https://openreview.net/pdf?id=-EHqoysUYLx)  
 * Does learning from decentralized non-IID unlabeled data really benefit from SSL?[[ICLR]](https://openreview.net/pdf?id=2L9gzS80tA4)  
-* EFFICIENT FEDERATED DOMAIN TRANSLATION[[ICLR]](https://openreview.net/pdf?id=uhLAcrAZ9cJ)  
+* Efficient Federated Domain Translation[[ICLR]](https://openreview.net/pdf?id=uhLAcrAZ9cJ)  
 * Combating Exacerbated Heterogeneity for Robust Models in Federated Learning[[ICLR]](https://openreview.net/pdf?id=eKllxpLOOm)
 * EPISODE: Episodic Gradient Clipping with Periodic Resampled Corrections for Federated Learning with Heterogeneous Data[[ICLR]](https://arxiv.org/pdf/2302.07155v1.pdf) 
 * Towards Understanding and Mitigating Dimensional Collapse in Heterogeneous Federated Learning[[ICLR]](https://arxiv.org/pdf/2210.00226.pdf)  
@@ -96,7 +95,7 @@ This repo is a collection of heterogeneous federated learning, including traditi
 ## 2023  
 * Test-Time Robust Personalization for Federated Learning[[ICLR]](https://arxiv.org/pdf/2205.10920v3.pdf) 
 * PerFedMask: Personalized Federated Learning with Optimized Masking Vectors[[ICLR]](https://openreview.net/pdf?id=hxEIgUXLFF) 
-* FEDDAR: FEDERATED DOMAIN-AWARE REPRESENTATION LEARNING[[ICLR]](https://openreview.net/pdf?id=6P9Y25Pljl6)  
+* FedDAR: Federated Domain-Aware Representation Learning[[ICLR]](https://openreview.net/pdf?id=6P9Y25Pljl6)  
 
 
 ## 2022  
@@ -130,7 +129,10 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * Personalized Federated Learning with Theoretical Guarantees: A Model-Agnostic Meta-Learning Approach[[NeurIPS]](https://papers.nips.cc/paper/2020/file/24389bfe4fe2eba8bf9aa9203a44cdad-Paper.pdf)  
 
 
-# Other-heterogeneity-federated-learning  
+# System-heterogeneity-federated-learning  
+## 2023  
+* DepthFL : Depthwise Federated Learning for Heterogeneous Clients[[ICLR]](https://openreview.net/pdf?id=pf8RIZTMU58)  
+*   
 ## 2022  
 * Bitwidth Heterogeneous Federated Learning with Progressive Weight Dequantization [[ICML]](https://proceedings.mlr.press/v162/yoon22a/yoon22a.pdf)  
 * Resource-Adaptive Federated Learning with All-In-One Neural Composition[[NeurIPS]](https://openreview.net/pdf?id=wfel7CjOYk)  
