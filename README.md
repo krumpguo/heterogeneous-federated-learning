@@ -5,7 +5,7 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * DEPTHFL: DEPTHWISE FEDERATED LEARNING FOR HETEROGENEOUS CLIENTS[[ICLR]](https://openreview.net/pdf?id=pf8RIZTMU58)  
 * FEDSPEED: LARGER LOCAL INTERVAL, LESS COMMUNICATION ROUND, AND HIGHER GENERALIZATION ACCURACY[[ICLR]](https://openreview.net/pdf?id=bZjxxYURKT) 
 * GENERALIZATION BOUNDS FOR FEDERATED LEARNING: FAST RATES, UNPARTICIPATING CLIENTS AND UNBOUNDED LOSSES[[ICLR]](https://openreview.net/pdf?id=-EHqoysUYLx)  
-* DOES LEARNING FROM DECENTRALIZED NON-IID UNLABELED DATA BENEFIT FROM SELF SUPERVISION?[[ICLR]](https://openreview.net/pdf?id=2L9gzS80tA4)  
+* Does learning from decentralized non-IID unlabeled data really benefit from SSL?[[ICLR]](https://openreview.net/pdf?id=2L9gzS80tA4)  
 * EFFICIENT FEDERATED DOMAIN TRANSLATION[[ICLR]](https://openreview.net/pdf?id=uhLAcrAZ9cJ)  
 * Combating Exacerbated Heterogeneity for Robust Models in Federated Learning[[ICLR]](https://openreview.net/pdf?id=eKllxpLOOm)
 * EPISODE: Episodic Gradient Clipping with Periodic Resampled Corrections for Federated Learning with Heterogeneous Data[[ICLR]](https://arxiv.org/pdf/2302.07155v1.pdf) 
