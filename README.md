@@ -122,7 +122,7 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * QuPeD: Quantized Personalization via Distillation with Applications to Federated Learning[[NeurIPS]](https://papers.nips.cc/paper/2021/file/1dba3025b159cd9354da65e2d0436a31-Paper.pdf)
 * Federated Multi-Task Learning under a Mixture of Distributions[[NeurIPS]](https://papers.nips.cc/paper/2021/file/82599a4ec94aca066873c99b4c741ed8-Paper.pdf)
 * Parameterized Knowledge Transfer for Personalized Federated Learning[[NeurIPS]](https://papers.nips.cc/paper/2021/file/5383c7318a3158b9bc261d0b6996f7c2-Paper.pdf)  
-* Exploiting Shared Representations for Personalized Federated Learning[[ICML]](https://arxiv.org/pdf/2102.07078v2.pdf)  
+* FedRep:Exploiting Shared Representations for Personalized Federated Learning[[ICML]](https://arxiv.org/pdf/2102.07078v2.pdf)  
 * Personalized Federated Learning with First Order Model Optimization[[ICLR]](https://openreview.net/pdf?id=ehJqJQk9cw)  
 
 ## 2020
