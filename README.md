@@ -129,7 +129,7 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * Architecture Agnostic Federated Learning for Neural Networks[[ICML]](https://proceedings.mlr.press/v162/makhija22a/makhija22a.pdf)  
 * Adaptive Personalized Federated Learning[[ICML]](https://arxiv.org/pdf/2003.13461v3.pdf)  
 * Personalized Federated Learning with Moreau Envelopes[[NeurIPS]](https://papers.nips.cc/paper/2020/file/f4f1f13c8289ac1b1ee0ff176b56fc60-Paper.pdf)  
-* Personalized Federated Learning with Theoretical Guarantees: A Model-Agnostic Meta-Learning Approach[[NeurIPS]](https://papers.nips.cc/paper/2020/file/24389bfe4fe2eba8bf9aa9203a44cdad-Paper.pdf)  
+* Personalized Federated Learning with Theoretical Guarantees: A Model-Agnostic Meta-Learning Approach[Per-FedAvg][[NeurIPS]](https://papers.nips.cc/paper/2020/file/24389bfe4fe2eba8bf9aa9203a44cdad-Paper.pdf)  
 
 
 # System-heterogeneity-federated-learning  
