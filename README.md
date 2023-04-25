@@ -55,6 +55,7 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * Class-Wise Adaptive Self Distillation for Federated Learning on Non-IID Data (Student Abstract)[[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/21620)  
 * Implicit Gradient Alignment in Distributed and Federated Learning[[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/20597)  
 * Contribution-Aware Federated Learning for Smart Healthcare[[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/20597)  
+* Coordinating momenta for cross-silo federated learning[[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/20853)
 * Heterogeneous Ensemble Knowledge Transfer for Training Large Models in Federated Learning[[IJCAI]](https://www.ijcai.org/proceedings/2022/0399.pdf)  
 * Private Semi-Supervised Federated Learning[[IJCAI]](https://www.ijcai.org/proceedings/2022/0279.pdf)  
 * Adapt to Adaptation: Learning Personalization for Cross-Silo Federated[[IJCAI]](https://www.ijcai.org/proceedings/2022/0301.pdf)  
@@ -87,9 +88,11 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * Group Knowledge Transfer: Federated Learning of Large CNNs at the Edge[[NeurIPS]](https://papers.nips.cc/paper/2020/file/a1d4c20b182ad7137ab3606f0e3fc8a4-Paper.pdf) 
 * Federated Learning with Matched Averaging[[ICLR]](https://arxiv.org/pdf/2002.06440.pdf)
 ## 2019
-* Measuring the Effects of Non-Identical Data Distribution for Federated Visual Classification[[404]](https://arxiv.org/abs/1909.06335)  \
+* Measuring the Effects of Non-Identical Data Distribution for Federated Visual Classification[[404]](https://arxiv.org/abs/1909.06335)  
+* Overcoming forgetting in federated learning on non-iid data[[NeurIPS]](https://arxiv.org/pdf/1910.07796.pdf)
 
-## 2017 
+
+## 2017   
 * Federated Multi-Task Learning[NeurIPS][[MOCHA]](https://papers.nips.cc/paper/2017/file/6211080fa89981f66b1a0c9d55c61d0f-Paper.pdf)  
 * Communication-Efficient Learning of Deep Networks from Decentralized Data[[AISTATS]](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)[[FedAvg]]
 
