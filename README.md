@@ -78,6 +78,7 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * Ensemble Attention Distillation for Privacy-Preserving Federated Learning[[ICCV]](https://openaccess.thecvf.com/content/ICCV2021/papers/Gong_Ensemble_Attention_Distillation_for_Privacy-Preserving_Federated_Learning_ICCV_2021_paper.pdf)  
 * Federated Learning for Non-IID Data via Unified Feature Learning and Optimization Objective Alignment[[ICCV]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Federated_Learning_for_Non-IID_Data_via_Unified_Feature_Learning_and_ICCV_2021_paper.pdf)  
 * Federated learning based on dynamic regularization[[ICLR]](https://arxiv.org/pdf/2111.04263.pdf)
+* Acceleration of federated learning with alleviated forgetting in local training[[ICLR]](https://arxiv.org/pdf/2203.02645.pdf)
 ## 2020  
 * SCAFFOLD: Stochastic Controlled Averaging for Federated Learning[[ICML]](http://proceedings.mlr.press/v119/karimireddy20a/karimireddy20a.pdf)  
 * Federated Learning with Only Positive Labels[[ICML]](http://proceedings.mlr.press/v119/yu20f/yu20f.pdf)  
