@@ -19,6 +19,23 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * Multimodal Federated Learning via Contrastive Representation Ensemble[[ICLR]](https://arxiv.org/pdf/2302.08888.pdf)
 * The Best of Both Worlds: Accurate Global and Personalized Models through Federated Learning with Data-Free Hyper-Knowledge Distillation[[ICLR]](https://arxiv.org/pdf/2301.08968.pdf)  
 * On the Importance and Applicability of Pre-Training for Federated Learning [[ICLR]](https://openreview.net/pdf?id=fWWFv--P0xP)
+### CVPR
+* Bias-Eliminating Augmentation Learning for Debiased Federated Learning
+* Federated Learning with Data-Agnostic Distribution Fusion
+* GradMA: A Gradient-Memory-based Accelerated Federated Learning with Alleviated Catastrophic Forgetting
+* Fair Federated Medical Image Segmentation via Client Contribution Estimation
+* Adaptive Channel Sparsity for Federated Learning under System Heterogeneity
+* Rethinking Federated Learning with Domain Shift: A Prototype View 
+* Reliable and Interpretable Personalized Federated Learning
+* ScaleFL: Resource-Adaptive Federated Learning with Heterogeneous Clients 
+* FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning*
+* How to Prevent the Poor Performance Clients for Personalized Federated Learning?
+* On the effectiveness of partial variance reduction in federated learning with heterogeneous data
+* Federated Incremental Semantic Segmentation
+* Confidence-aware Personalized Federated Learning via Variational Expectation Maximization
+* DaFKD: Domain-aware Federated Knowledge Distillation 
+* Federated Domain Generalization with Generalization Adjustment
+* Re-thinking Federated Active Learning based on Inter-class Diversity 
 
 
 ## 2022  
