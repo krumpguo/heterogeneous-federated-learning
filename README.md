@@ -22,7 +22,7 @@ This repo is a collection of heterogeneous federated learning, including traditi
 ### CVPR
 * Bias-Eliminating Augmentation Learning for Debiased Federated Learning
 * Federated Learning with Data-Agnostic Distribution Fusion
-* GradMA: A Gradient-Memory-based Accelerated Federated Learning with Alleviated Catastrophic Forgetting
+* GradMA: A Gradient-Memory-based Accelerated Federated Learning with Alleviated Catastrophic Forgetting[[GradMA]](https://arxiv.org/pdf/2302.14307.pdf)
 * Fair Federated Medical Image Segmentation via Client Contribution Estimation
 * Adaptive Channel Sparsity for Federated Learning under System Heterogeneity
 * Rethinking Federated Learning with Domain Shift: A Prototype View 
