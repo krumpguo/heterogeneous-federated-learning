@@ -145,7 +145,7 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * Federated Multi-Task Learning under a Mixture of Distributions[[NeurIPS]](https://papers.nips.cc/paper/2021/file/82599a4ec94aca066873c99b4c741ed8-Paper.pdf)
 * Parameterized Knowledge Transfer for Personalized Federated Learning[[NeurIPS]](https://papers.nips.cc/paper/2021/file/5383c7318a3158b9bc261d0b6996f7c2-Paper.pdf)  
 * FedRep:Exploiting Shared Representations for Personalized Federated Learning[[ICML]](https://arxiv.org/pdf/2102.07078v2.pdf)  
-* Personalized Federated Learning with First Order Model Optimization[[ICLR]](https://openreview.net/pdf?id=ehJqJQk9cw)  
+* Personalized Federated Learning with First Order Model Optimization[ICLR][[FedWeIT]](https://openreview.net/pdf?id=ehJqJQk9cw)  
 
 ## 2020
 * Architecture Agnostic Federated Learning for Neural Networks[[ICML]](https://proceedings.mlr.press/v162/makhija22a/makhija22a.pdf)  
