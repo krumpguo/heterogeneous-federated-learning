@@ -97,7 +97,7 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * Federated Learning for Non-IID Data via Unified Feature Learning and Optimization Objective Alignment[[ICCV]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Federated_Learning_for_Non-IID_Data_via_Unified_Feature_Learning_and_ICCV_2021_paper.pdf)  
 * Federated learning based on dynamic regularization[[ICLR]](https://arxiv.org/pdf/2111.04263.pdf)
 * Acceleration of federated learning with alleviated forgetting in local training[[ICLR]](https://arxiv.org/pdf/2203.02645.pdf)
-* Federated continual learning with weighted inter-client transfer[[ICML]](http://proceedings.mlr.press/v139/yoon21b/yoon21b.pdf)
+* Federated continual learning with weighted inter-client transfer[ICML][[FedWeIT]](http://proceedings.mlr.press/v139/yoon21b/yoon21b.pdf)
 ## 2020  
 * SCAFFOLD: Stochastic Controlled Averaging for Federated Learning[[ICML]](http://proceedings.mlr.press/v119/karimireddy20a/karimireddy20a.pdf)  
 * Federated Learning with Only Positive Labels[[ICML]](http://proceedings.mlr.press/v119/yu20f/yu20f.pdf)  
@@ -145,7 +145,7 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * Federated Multi-Task Learning under a Mixture of Distributions[[NeurIPS]](https://papers.nips.cc/paper/2021/file/82599a4ec94aca066873c99b4c741ed8-Paper.pdf)
 * Parameterized Knowledge Transfer for Personalized Federated Learning[[NeurIPS]](https://papers.nips.cc/paper/2021/file/5383c7318a3158b9bc261d0b6996f7c2-Paper.pdf)  
 * FedRep:Exploiting Shared Representations for Personalized Federated Learning[[ICML]](https://arxiv.org/pdf/2102.07078v2.pdf)  
-* Personalized Federated Learning with First Order Model Optimization[ICLR][[FedWeIT]](https://openreview.net/pdf?id=ehJqJQk9cw)  
+* Personalized Federated Learning with First Order Model Optimization[[ICLR]](https://openreview.net/pdf?id=ehJqJQk9cw)  
 
 ## 2020
 * Architecture Agnostic Federated Learning for Neural Networks[[ICML]](https://proceedings.mlr.press/v162/makhija22a/makhija22a.pdf)  
