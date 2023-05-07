@@ -101,7 +101,7 @@ This repo is a collection of heterogeneous federated learning, including traditi
 ## 2020  
 * SCAFFOLD: Stochastic Controlled Averaging for Federated Learning[[ICML]](http://proceedings.mlr.press/v119/karimireddy20a/karimireddy20a.pdf)  
 * Federated Learning with Only Positive Labels[[ICML]](http://proceedings.mlr.press/v119/yu20f/yu20f.pdf)  
-* An Efficient Framework for Clustered Federated Learning[[NeurIPS]](https://papers.nips.cc/paper/2020/file/e32cc80bf07915058ce90722ee17bb71-Paper.pdf)
+* An Efficient Framework for Clustered Federated Learning[ICFA][[NeurIPS]](https://papers.nips.cc/paper/2020/file/e32cc80bf07915058ce90722ee17bb71-Paper.pdf)
 * Group Knowledge Transfer: Federated Learning of Large CNNs at the Edge[[NeurIPS]](https://papers.nips.cc/paper/2020/file/a1d4c20b182ad7137ab3606f0e3fc8a4-Paper.pdf) 
 * Federated Learning with Matched Averaging[[ICLR]](https://arxiv.org/pdf/2002.06440.pdf)
 ## 2019
