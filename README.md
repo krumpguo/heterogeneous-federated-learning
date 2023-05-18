@@ -28,9 +28,9 @@ This repo is a collection of heterogeneous federated learning, including traditi
 * Rethinking Federated Learning with Domain Shift: A Prototype View 
 * Reliable and Interpretable Personalized Federated Learning
 * ScaleFL: Resource-Adaptive Federated Learning with Heterogeneous Clients 
-* FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning*
+* FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning[[FedDM]](https://arxiv.org/pdf/2207.09653.pdf)
 * How to Prevent the Poor Performance Clients for Personalized Federated Learning?
-* On the effectiveness of partial variance reduction in federated learning with heterogeneous data
+* On the effectiveness of partial variance reduction in federated learning with heterogeneous data[[FedPVR)]](https://arxiv.org/pdf/2212.02191.pdf)
 * Federated Incremental Semantic Segmentation
 * Confidence-aware Personalized Federated Learning via Variational Expectation Maximization
 * DaFKD: Domain-aware Federated Knowledge Distillation 
